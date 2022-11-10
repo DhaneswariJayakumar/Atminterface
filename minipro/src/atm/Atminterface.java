@@ -72,7 +72,7 @@ public class Atminterface {
 	 			System.out.println(" Your Amount Successfully deposited! ");
 	 			break;
  			
- 			case 3:
+ 			    case 3:
  				
  				System.out.println("Enter Your Withdrawl Amount : ");
 	 			withdrawl = ss.nextInt();
